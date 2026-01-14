@@ -44,6 +44,7 @@ PCD-UAS/
 
 1. **Clone repositori** (atau unduh filenya):
    ```bash
+
    git clone https://github.com/Lotsoo/uas-pcd.git
    cd PCD-UAS
    ```
@@ -76,3 +77,10 @@ PCD-UAS/
    - Buka tab **Testing**.
    - Unggah gambar baru (JPG/PNG).
    - Lihat hasil prediksi dan skor kepercayaannya!
+<<<<<<< HEAD
+=======
+
+## 📝 Lisensi
+
+Proyek ini dibuat untuk tujuan pendidikan sebagai bagian dari kuliah Pengolahan Citra Digital.
+>>>>>>> 50b6621015e9499cb3e6094a9725accfacc0fa76
